@@ -1,0 +1,129 @@
+{
+  "users": [
+    {
+      "id": "14590849",
+      "email": "monkey.velasquez.1982@gmail.com",
+      "password": "$2a$10$StWyjXgh0co.1Zz3ICZHkuwazlxpl3hDAqUj5b7eUj75xWS7dwllO"
+    },
+    {
+      "id": "16586892",
+      "email": "carjul20@gmail.com",
+      "password": "$2a$10$StWyjXgh0co.1Zz3ICZHkuwazlxpl3hDAqUj5b7eUj75xWS7dwllO"
+    },
+    {
+      "id": "14590854",
+      "email": "prueba@gmail.com",
+      "password": "$2a$10$StWyjXgh0co.1Zz3ICZHkuwazlxpl3hDAqUj5b7eUj75xWS7dwllO"
+    }
+  ],
+  "passwords": [
+    {
+      "id": 1,
+      "account_name": "gmail",
+      "username": "avelasquez",
+      "password": "$2a$10$StWyjXgh0co.1Zz3ICZHkuwazlxpl3hDAqUj5b7eUj75xWS7dwllO",
+      "site_url": "http://avelasquez.com",
+      "logo_url": "gm",
+      "created_at": "17-10-2020"
+    },
+    {
+      "id": 2,
+      "account_name": "facebook",
+      "username": "avelasquez",
+      "password": "$2a$10$StWyjXgh0co.1Zz3ICZHkuwazlxpl3hDAqUj5b7eUj75xWS7dwllO",
+      "site_url": "http://facebook.com",
+      "logo_url": "fa",
+      "created_at": "16-10-2020"
+    },
+    {
+      "id": 3,
+      "account_name": "instagram",
+      "username": "avelasquez",
+      "password": "$2a$10$StWyjXgh0co.1Zz3ICZHkuwazlxpl3hDAqUj5b7eUj75xWS7dwllO",
+      "site_url": "http://instagram.com",
+      "logo_url": "in",
+      "created_at": "15-10-2020"
+    },
+    {
+      "id": 4,
+      "account_name": "twitter",
+      "username": "avelasquez",
+      "password": "$2a$10$StWyjXgh0co.1Zz3ICZHkuwazlxpl3hDAqUj5b7eUj75xWS7dwllO",
+      "site_url": "http://twitter.com",
+      "logo_url": "tw",
+      "created_at": "14-10-2020"
+    },
+    {
+      "id": 5,
+      "account_name": "linked",
+      "username": "avelasquez",
+      "password": "$2a$10$StWyjXgh0co.1Zz3ICZHkuwazlxpl3hDAqUj5b7eUj75xWS7dwllO",
+      "site_url": "http://linked.com",
+      "logo_url": "ln",
+      "created_at": "13-10-2020"
+    },
+    {
+      "id": 6,
+      "account_name": "tiktot",
+      "username": "avelasquez",
+      "password": "$2a$10$StWyjXgh0co.1Zz3ICZHkuwazlxpl3hDAqUj5b7eUj75xWS7dwllO",
+      "site_url": "http://tiktot.com",
+      "logo_url": "tt",
+      "created_at": "12-10-2020"
+    },
+    {
+      "id": 7,
+      "account_name": "slack",
+      "username": "avelasquez",
+      "password": "$2a$10$StWyjXgh0co.1Zz3ICZHkuwazlxpl3hDAqUj5b7eUj75xWS7dwllO",
+      "site_url": "http://slack.com",
+      "logo_url": "sl",
+      "created_at": "11-10-2020"
+    },
+    {
+      "id": 8,
+      "account_name": "github",
+      "username": "avelasquez",
+      "password": "$2a$10$StWyjXgh0co.1Zz3ICZHkuwazlxpl3hDAqUj5b7eUj75xWS7dwllO",
+      "site_url": "http://github.com",
+      "logo_url": "gt",
+      "created_at": "10-10-2020"
+    },
+    {
+      "id": 9,
+      "account_name": "skipe",
+      "username": "avelasquez",
+      "password": "$2a$10$StWyjXgh0co.1Zz3ICZHkuwazlxpl3hDAqUj5b7eUj75xWS7dwllO",
+      "site_url": "http://skipe.com",
+      "logo_url": "sk",
+      "created_at": "09-10-2020"
+    },
+    {
+      "id": 10,
+      "account_name": "tinder",
+      "username": "avelasquez",
+      "password": "$2a$10$StWyjXgh0co.1Zz3ICZHkuwazlxpl3hDAqUj5b7eUj75xWS7dwllO",
+      "site_url": "http://tinder.com",
+      "logo_url": "ti",
+      "created_at": "08-10-2020"
+    },
+    {
+      "id": 11,
+      "account_name": "rappi",
+      "username": "avelasquez",
+      "password": "$2a$10$StWyjXgh0co.1Zz3ICZHkuwazlxpl3hDAqUj5b7eUj75xWS7dwllO",
+      "site_url": "http://rappi.com",
+      "logo_url": "rp",
+      "created_at": "07-10-2020"
+    },
+    {
+      "id": 12,
+      "account_name": "itunes",
+      "username": "avelasquez",
+      "password": "$2a$10$StWyjXgh0co.1Zz3ICZHkuwazlxpl3hDAqUj5b7eUj75xWS7dwllO",
+      "site_url": "http://itunes.com",
+      "logo_url": "it",
+      "created_at": "06-10-2020"
+    }
+  ]
+}
